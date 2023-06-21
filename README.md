@@ -9,4 +9,4 @@ This repo tracks number of severe floods in Europe from 1980
 
 <strong>SCREENSHOTS</strong>
 <img src="./assets/severe_floods_europe_1980_2010.png" />
-<img src="./assets/C:\Users\sasad\Desktop\github\severe_floods_europe\assets\severe_floods_max_min_per_decade.png" />
+<img src="./assets/severe_floods_max_min_per_decade.png" />
